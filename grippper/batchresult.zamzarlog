@@ -1,0 +1,63 @@
+
+C:\windows\system32>D:
+
+D:\uploadedFiles\7e71218147499f6b9be2c44b8944f8-6f515f325314294>cd D:\uploadedFiles\e8b596c788eb387e66f9b68b737bee-b7a490d58261df8d\ 
+
+D:\uploadedFiles\e8b596c788eb387e66f9b68b737bee-b7a490d58261df8d>C:\ZamApps\ConversionTools\IZArc\izarce -e "D:\uploadedFiles\e8b596c788eb387e66f9b68b737bee-b7a490d58261df8d\p1b7cauusv1ijfr6b1ojr5b71gk84.rar" 
+IZArc Command Line Extraction Add-On Version 1.1 (Build: 130)
+Copyright(c) 2007 Ivan Zahariev, All Rights Reserved.
+http://www.izarc.org    contact@izarc.org
+
+
+Archive File: p1b7cauusv1ijfr6b1ojr5b71gk84.rar
+
+  extracting: 1.SLDPRT                                            OK
+  extracting: 10.SLDPRT                                           OK
+  extracting: 11.SLDPRT                                           OK
+  extracting: 12.SLDPRT                                           OK
+  extracting: 13.SLDPRT                                           OK
+  extracting: 2.SLDPRT                                            OK
+  extracting: 3.SLDPRT                                            OK
+  extracting: 4.SLDPRT                                            OK
+  extracting: 5.SLDPRT                                            OK
+  extracting: 6.SLDPRT                                            OK
+  extracting: 7.SLDPRT                                            OK
+  extracting: 8.SLDPRT                                            OK
+  extracting: 9.SLDPRT                                            OK
+  extracting: Assem.SLDASM                                        OK
+  extracting: coordinate_system_configuration.jpg                 OK
+  extracting: Copy of 1.sldprt                                    OK
+  extracting: Copy of 10.sldprt                                   OK
+  extracting: Copy of 11.sldprt                                   OK
+  extracting: Copy of 12.sldprt                                   OK
+  extracting: Copy of 2.sldprt                                    OK
+  extracting: Copy of 3.sldprt                                    OK
+  extracting: Copy of 4.sldprt                                    OK
+  extracting: Copy of 5.sldprt                                    OK
+  extracting: Copy of 6.sldprt                                    OK
+  extracting: Copy of 7.sldprt                                    OK
+  extracting: Copy of 8.sldprt                                    OK
+  extracting: Copy of 9.sldprt                                    OK
+  extracting: sketch_plane.SLDPRT                                 OK
+
+D:\uploadedFiles\e8b596c788eb387e66f9b68b737bee-b7a490d58261df8d>C:\ZamApps\ConversionTools\IZArc\izarcc -a "D:\uploadedFiles\e8b596c788eb387e66f9b68b737bee-b7a490d58261df8d\p1b7cauusv1ijfr6b1ojr5b71gk84.zip" "*.*" 
+IZArc Command Line Compression Add-On Version 1.1 (Build: 130)
+Copyright(c) 2007 Ivan Zahariev, All Rights Reserved.
+http://www.izarc.org    contact@izarc.org
+
+Archive File: p1b7cauusv1ijfr6b1ojr5b71gk84.zip
+
+   adding: 1.SLDPRT                                            OK
+   adding: 10.SLDPRT                                           OK
+   adding: 11.SLDPRT                                           OK
+   adding: 12.SLDPRT                                           OK
+   adding: 13.SLDPRT                                           OK
+   adding: 2.SLDPRT                                            OK
+   adding: 3.SLDPRT                                            OK
+   adding: 4.SLDPRT                                            OK
+   adding: 5.SLDPRT                                            OK
+   adding: 6.SLDPRT                                            OK
+   adding: 7.SLDPRT                                            OK
+   adding: 8.SLDPRT                                            OK
+   adding: 9.SLDPRT                                            OK
+   adding: Assem.SLDASM                                        OK
